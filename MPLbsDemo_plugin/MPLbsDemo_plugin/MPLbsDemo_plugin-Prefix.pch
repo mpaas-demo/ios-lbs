@@ -1,0 +1,21 @@
+//
+//  MPLbsDemo_plugin-Prefix.pch
+//  MPLbsDemo_plugin
+//
+//  Created by shifei.wkp on 2019/03/28.
+//  Copyright © 2019 Alibaba. All rights reserved.
+//
+
+#ifndef MPLbsDemo_plugin_Prefix_pch
+#define MPLbsDemo_plugin_Prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+
+#import "MPLbsDemo_plugin-mPaaS-Headers.h"
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+
+
+#endif /* MPLbsDemo_plugin_Prefix_pch */

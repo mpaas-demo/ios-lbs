@@ -1,0 +1,28 @@
+//
+//  MPLbsDemo_pod-Prefix.pch
+//  MPLbsDemo_pod
+//
+//  Created by shifei.wkp on 2019/03/28.
+//  Copyright © 2019 Alibaba. All rights reserved.
+//
+
+#ifndef MPLbsDemo_pod_Prefix_pch
+#define MPLbsDemo_pod_Prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+
+
+#endif /* MPLbsDemo_pod_Prefix_pch */
+
+// MPAAS HEADERS BEGIN
+// This part is maintained by MPaaS plugin automatically. 
+#ifdef __OBJC__
+
+#import "MPLbsDemo_pod-mPaaS-Headers.h"
+
+#endif
+// MPAAS HEADERS END
